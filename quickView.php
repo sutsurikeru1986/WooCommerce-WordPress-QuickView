@@ -93,7 +93,7 @@
 
 						<div class="productdescription">
 
-							<p><?php echo apply_filters( 'woocommerce_short_description', $post->post_excerpt ) ?> ?></p>
+							<p><?php echo apply_filters( 'woocommerce_short_description', $post->post_excerpt ) ?></p>
 
 						</div>
 					   
